@@ -5,12 +5,6 @@ import java.util.Date;
 import java.util.Random;
 import java.util.zip.CRC32;
 
-
-/**
- * Created by Philipp Minges on 07.09.16.
- */
-
-
 public class keygen {
 
     public static void main(String[] args) {
